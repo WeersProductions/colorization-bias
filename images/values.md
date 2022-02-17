@@ -7,3 +7,5 @@ Image ID | Reason              | Value
 00006700 | third_top_diff      | 69.757
 00005581 | third_bottom_diff   | 77.414
 00024567 | third_left_diff     | 75.708
+
+The images of humans are examples that were not chosen through specific values.
